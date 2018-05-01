@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "Changed123",
+        "MONGO_ATLAS_UN": "shopping",
+        "JWT_KEY": "qw3e4r5tfgr454fgdderddfr55rt4r"
+    }
+}

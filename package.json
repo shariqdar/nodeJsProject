@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "nodeJs RestFul API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.0.13",
+    "mongoose-data-seed": "^1.0.4",
+    "mongoose-geojson-schema": "^2.1.2",
+    "morgan": "^1.9.0",
+    "multer": "^1.3.0",
+    "password-hash": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
